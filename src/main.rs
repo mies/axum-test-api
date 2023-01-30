@@ -16,5 +16,5 @@ use std::{net::SocketAddr, time::Duration};
 
 #[tokio::main]
 async fn main() {
-    println!("Hello, world!");
+    println!("Hell, world!");
 }
